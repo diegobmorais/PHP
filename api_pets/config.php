@@ -1,6 +1,4 @@
-
 <?php
-date_default_timezone_set('America/Sao_Paulo');
 
 header("Content-Type: application/json"); // a aplicação retorna json
 header("Access-Control-Allow-Origin: *"); // vai aceitar requisições de todas origens
