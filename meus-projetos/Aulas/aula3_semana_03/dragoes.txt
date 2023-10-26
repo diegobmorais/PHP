@@ -1,0 +1,1 @@
+[{"id":"652d5dc8ca7e6","nome":"zulao","dano":90,"defesa":1000,"vida":100},{"id":"652d5ddb51e2d","nome":"diego","dano":90,"defesa":1000,"vida":100},{"id":"652d5df69434f","nome":"diego","dano":90,"defesa":1000,"vida":100},{"id":"652d5e2900400","nome":"ola ola ola","dano":90,"defesa":1000,"vida":100}]
